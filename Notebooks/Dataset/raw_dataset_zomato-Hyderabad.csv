@@ -1,4 +1,4 @@
-,area_sqft,availability_date,balcony,base_price,bathroom,bedrooms,id,kitchens,lattitude,living,locality_name,longitude,owner_name,post_date,price,property_name,zomato loc,zomato popularity,zomato price,zomato rating
+,area_sqft,availability_date,balcony,base_price,bathroom,bedrooms,id,kitchens,latitude,living,locality_name,longitude,owner_name,post_date,price,property_name,zomato loc,zomato popularity,zomato price,zomato rating
 0,1820,1-Apr-22,2,5300,3,3,869036,1,17.3974478,1,Kokapet,78.3326142,GEM VIVENDAS,15-Nov-20,9646000,Gem Nakshathra,Gandipet,2.51,2.555555556,3.744444444
 1,1339.890272,1-Dec-23,,5789,,2,1044842,0,17.403598,,Manikonda,78.38975,HOUSZ BUILDTECH LLP,15-Nov-20,7758600,Ambience Courtyard,Manikonda,4.75,1.444444444,3.855555556
 2,1910,1-Sep-22,,4700,,3,1044923,0,17.512305,,Yapral,78.532584,GK Developers,11-Nov-20,8977000,GK S Zenith,Yapral,2.73,1.666666667,3.522222222
